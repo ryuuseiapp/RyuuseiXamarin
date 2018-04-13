@@ -1,0 +1,20 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+/Ryuusei/Ryuusei/obj
+/Ryuusei/Ryuusei/bin
+/Ryuusei/Ryuusei.Android/obj
+/Ryuusei/Ryuusei.Android/bin
+/Ryuusei/Ryuusei.iOS/obj
+/Ryuusei/Ryuusei.iOS/bin
